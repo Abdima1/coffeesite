@@ -1,0 +1,634 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.imagesizing{
+    margin-top: 3%;
+    padding-left: 32px;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffffff;
+    color: black;
+}
+.header-wrapper{
+   margin-top: -2%;
+    padding: 8px;
+}
+.header-wrapper ul{
+    margin: 12px;
+    padding: 8px;
+    text-decoration: none;
+    text-transform: capitalize;
+    justify-content: center;
+    text-align: center;
+    margin-top: -3%;
+}
+.header-wrapper li{
+  list-style: none;
+  display: inline;
+  padding: 18px;
+  text-decoration: none;
+  color: black;
+}
+.header-wrapper a{
+
+  color: black;
+  text-decoration: none;
+  margin-top: -19px;
+  padding: 12px;
+}
+.header-wrapper a:hover{
+color:rgb(168, 168, 146);
+
+}
+
+.sign-up{
+    float: right;
+    margin-top: -15px;
+    padding-right: 12%;
+}
+.sign-up:hover{
+    color:rgb(168, 168, 146);
+}
+.coffee-content{
+    background-color: #5C99BF;
+    height: 70%;
+    width: 100%;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+.cofee-content{
+    background-color:#5C99BF ;
+    height: 70.34%;
+    width: 100%;
+}
+
+.imageright{
+    float: right;
+    margin-top: 2%;
+    padding-right: 7%;
+}
+.headnadparapraph{
+    margin-top: -15%;
+    padding-left:8% ;
+    width: 50%;
+}
+.headnadparapraph h1{
+   color: #ffffff;
+   font-size: 21px;
+   font-weight: 20px;
+}
+.headnadparapraph p{
+   color: black;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   width: 50%;
+}
+.lias-biancotiles{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#buttonjoin{
+    margin-top: 14.34%;
+    padding-left: 2%;
+    width: 300px;
+    height: 40px;
+    color: #DEBB63;
+    border-color: #DEBB63;
+    padding-left: 3%;
+   
+    
+}
+.typesofcoffee{
+    margin-top: 12px;
+    background-color: #FAF4E9;
+    width: 100%;
+    height: 100%;
+}
+.typesofcoffee h1{
+    text-align: center;
+    margin-top: 2%;
+    justify-content: center;
+    align-items: center;
+}
+
+.typesofcoffee img{
+    align-items: center;
+    padding-left: 9%;
+    margin-top: 2%;
+}
+.typesofcoffee img:hover{
+   transition: 300s;
+}
+.samplecoffee1{
+    padding-left: 4%;
+}
+#pricing{
+    text-decoration: underline;
+    color: #ffffff;
+}
+#pricing:hover{
+    color: black;
+}
+.blockcoffee1{
+    padding: 18px;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+   width: 30%;
+   padding-left: 5%;
+    box-shadow: none;
+    box-sizing: border-box;
+    background-color: #203021;
+    color: #ffffff;
+    margin-top: 2%;
+    height: 97px;
+}
+.blockcoffee1:hover{
+   color: bisque;
+   background-color: #5C98BE;
+   transition: 8s;
+}
+
+#Buttonbuyall{
+  align-items: center;
+  justify-content: center;
+
+  
+}
+
+#buttonjoin-SHOPALL{
+    margin-top: 4.34%;
+    padding-left: 2%;
+    width: 300px;
+    height: 40px;
+    color: #DEBB63;
+    border-color: #DEBB63;
+    padding-left: 3%;  
+    align-items: center; 
+    text-align: center;
+}
+#buttonjoin-SHOPALL:hover{
+   background-color: #5C98BE; 
+   color: red; 
+   transition: 8s;
+}
+.coffeewallpaper5{
+    margin-top: 7%;
+    width: 50%;
+
+}
+.coffee-roster{
+    width: 100%;
+    height: 100%;
+    margin-top:1%;
+    padding-left: 3%;
+    padding: 9px;
+    position: absolute;
+    background-image: url(/elmaimages/coffee8.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+#click-herebutton{
+    width: 9%;
+    height: 35px;
+    background-color: royalblue;
+    border: royalblue;
+    color: #ffffff;
+    position: relative;
+    
+}
+#click-herebutton:hover{
+   
+    width: 300px;
+    height: 40px;
+    color: #DEBB63;
+    border-color: #DEBB63;
+    padding-left: 3%;  
+    align-items: center; 
+    text-align: center;
+}
+
+#paragraph-content{
+    color: #ffffff;
+    width: 56%;
+    margin-top: 15%;
+    padding-left: 12px;
+    font-weight: 30px;
+    font-size: 30px;
+    padding: 8px;
+}
+#paragraph-content :hover{
+    color: yellow;
+    transition: 8s;
+    opacity: 12s;
+}
+
+#paragraph-content-button{
+    width: 300px;
+    height: 40px;
+    color: #DEBB63;
+    border-color: #DEBB63;
+    padding-left: 3%;  
+    align-items: center; 
+    text-align: center;
+}
+#paragraph-content-button:hover{
+   
+    color: black;
+   background-color:  yellow;
+   border: red;
+   transition: 8s;
+   opacity: 12s;
+    
+}
+.cofferosterimages{
+    width: 100%;
+    height: 100%;
+    margin-top: 50%;
+    align-items: center;
+    
+}
+.images{
+    padding-left: 9px;
+    border-radius: 67%;
+}
+.images img{
+   transition: 9s;
+    border-radius: 67%;
+}
+#coffeerosterparagraph{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: -2%;
+    font-weight: bold;
+    font-weight: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.follow-social-media{
+    width: 100%;
+    height: 30%;
+    margin-top: 3%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #FAF4E9;
+    padding: 22px;
+    border-bottom: 1px dotted black;
+}
+
+#social-icon:hover{
+color: red;
+}
+
+.elmacoffee{
+    width: 100%;
+    height: 70.4%;
+}
+.elmacoffee img{
+    width: 100%;
+    height:100%.;
+}
+#subscription-paragraph{
+
+    margin-top: 40.89%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 20px;
+   
+}
+#subscription-paragraph {
+
+   background-color: blanchedalmond;
+   color: #E8D399;
+   
+}
+.more-coffee-details{
+    margin-top: -6%;
+    width: 100%;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(249, 246, 234);
+    
+}
+.swansimages{
+    margin-top: 14%;
+    align-items: center;
+    padding-left: 10%;
+    display: inline;
+    border-bottom: solid 1px solid;
+}
+
+.condensed-data{
+    margin-top: 5%;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: black;
+   display: inline-block;
+   align-items: center;
+   padding: 6px;
+   columns: 3;
+   border-bottom: 1px solid black;
+}
+.condensed-images img:hover{
+    opacity: 5s;
+    transition: 5s;
+}
+.hover-paragraph:hover {
+
+   color: royalblue;
+   transition: 2s;
+   opacity: 4s;
+   font-weight: bold;
+   background-color: #DEBB63;
+}
+
+.lower-content{
+    margin-top: 33.67%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   border-bottom: 1px solid black;
+    
+    
+}
+.lower-content ul{
+   
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+    
+    
+}
+.lower-content li{
+    align-items: center;
+    text-align: center;
+    display: inline-block;   
+}
+.lower-content li:hover{
+    color: royalblue;
+    transition: 4s;
+    opacity: 4s; 
+}
+
+.detailed-list{
+    margin-top: 34.89%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F9F6EA;
+    height: 280%;
+    width: 100%;
+}
+.detailed-list p{
+   display: inline-block;
+   padding: 12px;
+   margin-top: 2%;
+   text-decoration: underline;
+}
+.detailed-list p:hover{
+   color: cornflowerblue;
+   opacity: 4s;
+   transform: 4s;
+}
+
+span{
+    color: #E9D399;
+    font-weight: bold;
+}
+.coffee-shop{
+    margin-top: 2%;
+    padding: 12px;
+    padding-right: 16%;
+    
+}
+.shopcoffee1{
+    display: inline-block;
+    margin-top: 10%;
+    width: 300px;
+    height: 150px;
+    padding-right: 12px;
+    color: #F5EFE4;
+    background-color: #203021;
+}
+.shopcoffee1:hover{
+  
+    color:#FAF4E9 ;
+    background-color: #21688B;
+    opacity: 4s;
+    transition: 4s;
+}
+.shopcoffee2{
+    display: inline-block;
+    margin-top: 10%;
+    width: 300px;
+    height: 150px;
+    padding-right: 12px;
+    color: #F5EFE4;
+    background-color: #5972A0;
+}
+.shopcoffee2:hover{
+    
+    color: #F5EFE4;
+    background-color: #204446;
+    opacity: 4s;
+    transition: 4s;
+}
+.shopcoffee3{
+    display: inline-block;
+    margin-top: 10%;
+    width: 300px;
+    height: 150px;
+    padding-right: 12px;
+    color: #F5EFE4;
+    background-color: #36714E;
+}
+.shopcoffee3:hover{
+    background-color: #B37CB6;
+    color: #FAF4E9;
+    opacity: 4s;
+    transition: 4s;
+}
+.shop-coffee1{
+   display: inline-block;
+   padding: 8px;
+  
+}
+.coffee-shop2{
+    margin-top: 4%;
+}
+.last-conent{
+    margin-top: 7%;
+    width: 100%;
+    height: 12%;
+    border-bottom: 1px solid black;
+}
+.para-content{
+    margin-top: 2%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    text-transform: lowercase;
+    text-decoration: none;
+}
+.para-content p{
+    margin-top: 2%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    text-transform: lowercase;
+    text-decoration: none;
+    border-radius: 45%;
+}
+.African-flavours{
+    margin-top: 2%;
+    padding: 12px;
+    padding-right: 16%;
+}
+.African-flavour1{
+    display: inline-block;
+    margin-top: 10%;
+    width: 300px;
+    height: 150px;
+    padding-left: 16.5px;
+    color: #F5EFE4;
+    background-color: #203021;
+}
+.African-flavour1:hover{
+    background-color: #B37CB6;
+    color: #FAF4E9;
+    opacity: 4s;
+    transition: 4s;
+}
+.order-button{
+     display: inline;
+     float: right;
+     margin-top: 4%;
+     padding-right: 11%;
+}
+
+#orderbutton{
+    width: 130px;
+    height: 40px;
+   margin-top: 2%;
+}
+#orderbutton:hover{
+    background-color: black;
+    color:#ffffff;
+    border: #ffffff;
+}
+#cart-image{
+    float: right;
+    margin-top: 3%;
+    padding: 6px;
+    
+}
+#cart-image:hover{
+    transition: 5s;
+    opacity: 5s;
+}
+.cofee-contents{
+    min-width: 599px;
+    min-height: 120px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 69px;
+    display: inline-block;
+    margin-top: 6%;
+    padding: 2px;
+    background-color: #BCBCBC;
+}
+.cofee-contents p{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+.cofee-contents h3{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+.togo-drinks
+{
+    margin-top: 3%;
+    
+}
+.togo-drinks p
+{
+    margin-top: 3%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.togo-drinks p:hover
+{
+color: #5C99BF;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.last-images{
+    margin-top: 3%;
+}
+.last-images p{
+    
+   text-align: center;
+   font-weight: bolder;
+   text-transform: capitalize;
+   text-decoration: underline;
+}
+
+
+.mini-blog{
+margin-top: 3%;
+    width: 40%;
+    padding-left: 15%;
+    color: black;  
+}
+.mini-blog:hover{
+color: #B37CB6;
+     
+}
+#date-blog{
+    text-decoration: underline;
+    padding: 6px;
+}
+#date-blog:hover{
+    color: #DEBB63;
+}
+
+.form-group{
+    margin-top: 5%;
+}
+.signup-using-social-media-signup{
+   float: right;
+    margin-top: 2%;
+    padding-right: 20%;
+}
+
+
+
